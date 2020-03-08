@@ -1,0 +1,5 @@
+xlua.hotfix(CS.XLuaTest.CalcService,'Add',function(self, a, b)
+	print('LOL-RESOURCE')
+	return a * b
+end)
+print('cal.lua')
