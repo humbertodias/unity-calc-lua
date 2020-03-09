@@ -3,5 +3,5 @@ guid: 69e14b4b04f7cb77e85d7e4d9dbdc4a3
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: lua
+  assetBundleVariant: calc
